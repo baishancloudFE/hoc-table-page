@@ -66,7 +66,7 @@ export class SupplierManage extends PureComponent {
 }
 ```
 
-必须按照 一个<div>包裹<Search />和<List />的格式，并且<Search />在上<List />在下。
+必须按照 一个```<div>```包裹```<Search />```和```<List />```的格式，并且```<Search />```在上```<List />```在下。
 
 ### Search
 
